@@ -1,0 +1,21 @@
+/* .img{
+    background-image: url("https://www.bing.com/search?q=background+images&aqs=edge.1.0j69i59j69i57j0l5j46.3677j0j1&FORM=ANAB01&PC=ASTS");
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+} */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header {
+    background-image:  url('https://t4.ftcdn.net/jpg/02/93/83/95/240_F_293839502_Tl78cUAHHw0easDqnoH5Tbk5t8ZZKDbe.jpg');
+    height: 900px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
